@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nanodegrees">
+        <item>Android Basics</item>
+        <item>Android Developer</item>
+    </string-array>
+
+    <string-array name="abnd">
+        <item>@string/abnd0</item>
+        <item>@string/abnd1</item>
+        <item>@string/abnd2</item>
+        <item>@string/abnd3</item>
+        <item>@string/abnd4</item>
+        <item>@string/abnd5</item>
+        <item>@string/abnd6</item>
+        <item>@string/abnd7</item>
+        <item>@string/abnd8</item>
+        <item>@string/abnd9</item>
+    </string-array>
+
+    <string-array name="adnd">
+        <item>@string/adnd0</item>
+        <item>@string/adnd1</item>
+        <item>@string/adnd2</item>
+        <item>@string/adnd3</item>
+        <item>@string/adnd4</item>
+        <item>@string/adnd5</item>
+    </string-array>
+</resources>

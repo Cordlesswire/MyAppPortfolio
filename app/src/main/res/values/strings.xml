@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyAppPortfolio</string>
+
+    <string name="adnd0">Popular Movies</string>
+    <string name="adnd1">Stock Hawk</string>
+    <string name="adnd2">Build it Bigger</string>
+    <string name="adnd3">Make Your App Material</string>
+    <string name="adnd4">Go Ubiquitous</string>
+    <string name="adnd5">Capstone</string>
+
+    <string name="abnd9">Inventory App</string>
+    <string name="abnd8">Habit Tracker</string>
+    <string name="abnd7">Tour Guide App</string>
+    <string name="abnd6">Report Card</string>
+    <string name="abnd5">News App</string>
+    <string name="abnd4">Musical Structure App</string>
+    <string name="abnd3">Quiz App</string>
+    <string name="abnd2">Book Listing</string>
+    <string name="abnd1">Score Keeper</string>
+    <string name="abnd0">First Project</string>
+
+    <string name="toast_thanks">Thanks for touching me!</string>
+    <string name="snackbar_about">I am Geovani, Android Developer :)</string>
+</resources>
