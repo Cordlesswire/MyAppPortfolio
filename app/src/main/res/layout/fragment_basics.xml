@@ -20,100 +20,70 @@
         >
         <Button
             android:id="@+id/button1"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd0"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button2"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button1"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd1"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button3"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button2"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd2"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button4"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button3"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd3"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button5"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button4"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd4"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button6"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button5"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd5"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button7"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button5"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd6"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button8"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button5"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd7"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button9"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button5"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd8"
             android:onClick="toastOnClick"
             />
         <Button
             android:id="@+id/button10"
-            android:layout_width="250dp"
-            android:layout_height="wrap_content"
             android:layout_below="@+id/button5"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="@dimen/margin"
+            style="@style/buttonStyle"
             android:text="@string/abnd9"
             android:onClick="toastOnClick"
             />
